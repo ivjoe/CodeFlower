@@ -10,4 +10,4 @@ Interact with CodeFlowers, see examples, and build your own at [http://fzaninott
 ![jquery/jquery](./images/jquery.png)
 ![fabpot/twig](./images/twig.png)
 
-![CodeShip status](https://www.codeship.io/projects/821742f0-22ea-0131-e14b-1632cf35db41/status)
+https://www.codeship.io/projects/821742f0-22ea-0131-e14b-1632cf35db41/status
